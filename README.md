@@ -1,4 +1,4 @@
-### Sentiment Analysis Project
+# Sentiment Analysis Project
 This project aims to analyze customer reviews to determine their sentiment—whether they are positive, negative, or neutral. The sentiment analysis is performed using Natural Language Processing (NLP) techniques, including the VADER and Roberta models, which are used to classify and score sentiments in textual data.
 ## Table of Contents
 - Introduction
